@@ -8,8 +8,8 @@ Este repositorio contiene los códigos en Python, simulaciones numéricas e info
 
 El repositorio está organizado para separar las tareas regulares de los distintos avances del proyecto semestral:
 
-* **[`/Tarea 1`](./Tarea%201):** [Añade aquí una breve descripción de lo que se resolvió en la Tarea 1]
-* **[`/Tarea 2`](./Tarea%202):** [Añade aquí una breve descripción de lo que se resolvió en la Tarea 2]
+* **[`/Tarea 1`](./Tarea%201):** 
+* **[`/Tarea 2`](./Tarea%202):** 
 * **Proyecto Semestral: Propagación de Ondas Sísmicas 2D**
   * **[`/avance1`](./avance1):** Planteamiento inicial del modelo físico y la fuente.
   * **[`/avance 2`](./avance%202):** Implementación del esquema numérico, diferencias finitas y simulación base.
